@@ -1,7 +1,7 @@
 # SOLR Search Engine
 
 Created a Search Engine using Apache Solr. 
-Languages used : HTML, CSS, Php, Java.
+Languages and tools used : PHP, jQuery, Apache Solr, HTML, CSS, Bootstrap, Java, Hadoop, GCP Dataproc.
 
 Crawled about 20000 LA Time web pages using Crawler4j.
 Implemented PageRank algorithm to give score to results for deciding order of results. Implemented text auto-completion and spelling correction features.
